@@ -2,11 +2,11 @@ items:
   - text: Home
     url: /
   - text: About
-    url: /pages/about
+    url: /pages/about-us
   - text: Retreats
     url: /pages/retreats
   - text: Writers Workshops
-    url: /pages/writers
+    url: /pages/writers-workshops
   - text: Sons of Prophets
     url: https://sonsofprophets.co
   - text: PROPHESY Store
