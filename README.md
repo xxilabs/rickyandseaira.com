@@ -10,7 +10,7 @@ Perfect for blogging websites, Impulse Netlify comes with everything you need to
 
 ## Quick Install
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/rosstopping/impulse-netlify&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" /></a>
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/xxilabs/rickyandseaira.com&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" /></a>
 
 
 | ![image](https://novolio.dev/images/themes/impulse/preview.png) |
@@ -37,7 +37,7 @@ Navigate to [netlify.com](https://netlify.com) and login or create a new account
 
 ### 3\. Enable Netlify Identity
 
-Go to the Identify section to enable. Then make sure to enable 'Git Gateway'. We recommend disabling registration otherwise you leave your CMS open to anyone. 
+Go to the Identify section to enable. Then make sure to enable 'Git Gateway'. We recommend disabling registration otherwise you leave your CMS open to anyone.
 
 ![image](https://novolio.dev/images/git-gateway.png)
 
