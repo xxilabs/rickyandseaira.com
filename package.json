@@ -24,7 +24,7 @@
     "postcss-cli": "^8.3.1",
     "prismjs": "^1.21.0",
     "stripe": "^8.138.0",
-    "tailwindcss": "^2.0.3"
+    "tailwindcss": "2.0.3"
   },
   "dependencies": {
     "autoprefixer": "^10.1.0"
